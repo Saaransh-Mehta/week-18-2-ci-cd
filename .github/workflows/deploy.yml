@@ -27,4 +27,4 @@ jobs:
         tags: saaransh20/practice-ci-cd:latest  # Replace with your Docker Hub username and repository
 
     - name: Verify Pushed Image
-      run: docker pull saaransh20/practice-ci-cd:latest  # Replace with your Docker Hub username and repository
+      run: docker pull saaransh20/practice-ci-cd:latest  # Replace with your Docker Hub username and reposito
